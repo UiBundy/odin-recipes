@@ -1,0 +1,23 @@
+
+
+h1 
+{
+    text-align: center;
+}
+
+p
+{
+    margin-left: 50px;
+    font-weight:600;
+}
+
+.baked
+{
+    margin-left: 10px;
+    font-weight: 600;
+}
+
+button
+{
+    font-size: large;
+}

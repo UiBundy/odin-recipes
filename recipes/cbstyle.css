@@ -1,0 +1,24 @@
+
+
+h1, h2
+{
+    text-align: center;
+}
+
+
+.ingredients,
+.mcing, 
+.cqing
+{
+    list-style: none;
+    text-align: center;
+}
+
+
+.cbimg, 
+.mcimg, 
+.cqimg
+{
+    text-align: center;
+}
+
