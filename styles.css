@@ -10,9 +10,11 @@ h1
 {
     text-align: center;
     margin-left: 55px;
-    border-style:solid;
+    border-style:groove;
     border-width: 3px;
     border-color: black;
+    background-color: orangered;
+    color: white;
 }
 
 p
@@ -21,4 +23,6 @@ p
     margin-right: 135px;
     border-style: groove;
     border-color: black;
+    background-color: orangered;
+    color: white;
 }
